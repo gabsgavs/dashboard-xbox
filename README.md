@@ -14,3 +14,9 @@ Este projeto é a solução para o desafio prático de criação de um **Dashboa
 ## 📂 Estrutura do Repositório
 - `dashboard_xbox.xlsx`: Arquivo principal contendo a base de dados, a aba de cálculos auxiliares e o dashboard final interativo.
 - `README.md`: Documentação explicativa do projeto.
+
+## 🚀 Como visualizar e interagir
+1. Faça o clone deste repositório ou o download direto do arquivo `dashboard_xbox.xlsx`.
+2. Abra o arquivo no aplicativo desktop do **Microsoft Excel** (recomenda-se a versão do Microsoft 365 ou 2019+ para garantir total compatibilidade com os filtros e design).
+3. Navegue até a aba principal do **Dashboard**.
+4. Utilize os botões de segmentação de dados na tela para filtrar o faturamento por tipo de assinatura, período ou produto, e observe os gráficos sendo atualizados automaticamente.
